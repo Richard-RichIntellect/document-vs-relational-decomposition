@@ -8,7 +8,7 @@ the working example.
 > *"Not every problem needs a relational database... The interesting
 > question isn't SQL or NoSQL — it's what shape does the business entity
 > actually have."*
-> — [companion post](#) <!-- swap in the LinkedIn post URL -->
+> — [companion post](https://www.linkedin.com/posts/richard-s-9893ab1_not-every-problem-needs-a-relational-database-activity-7466956451953999872-yFkC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAA8bbkBqNKjZ4LQWo9jz__3yomg8NMRlzg)
 
 ## The idea
 
