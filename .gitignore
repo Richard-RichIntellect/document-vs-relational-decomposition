@@ -1,0 +1,9 @@
+# .NET build output
+dotnet/**/bin/
+dotnet/**/obj/
+
+# Python
+__pycache__/
+*.pyc
+examples/_demo_store.json
+tests/_test_store.json

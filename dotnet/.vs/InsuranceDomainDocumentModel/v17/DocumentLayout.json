@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\LinkedIn\\source\\repo\\Rename Domain Document\\dotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96DEF2BD-996E-4511-9CB2-EE34E4051152}|tests\\DocumentModel.Tests\\DocumentModel.Tests.csproj|d:\\linkedin\\source\\repo\\rename domain document\\dotnet\\tests\\documentmodel.tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96DEF2BD-996E-4511-9CB2-EE34E4051152}|tests\\DocumentModel.Tests\\DocumentModel.Tests.csproj|solutionrelative:tests\\documentmodel.tests\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\LinkedIn\\source\\repo\\Rename Domain Document\\dotnet\\tests\\DocumentModel.Tests\\Program.cs",
+              "RelativeDocumentMoniker": "tests\\DocumentModel.Tests\\Program.cs",
+              "ToolTip": "D:\\LinkedIn\\source\\repo\\Rename Domain Document\\dotnet\\tests\\DocumentModel.Tests\\Program.cs",
+              "RelativeToolTip": "tests\\DocumentModel.Tests\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T21:11:33.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
